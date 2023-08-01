@@ -5,3 +5,5 @@ pycaret
 scikit-learn
 numpy
 pickle5
+joblib
+gunicorn
