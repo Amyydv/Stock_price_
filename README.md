@@ -1,4 +1,4 @@
-#Introduction
+Introduction
 
 This project is focused on testing the performance of two popular boosting models - AdaBoostRegressor and GradientBoostingRegressor - on the Tata Steel data set. The project included several steps, including exploratory data analysis (EDA), feature engineering, and model building and evaluation.
 
